@@ -7,6 +7,8 @@ public class main {
         System.out.println("3");
         System.out.println("one more change");
         System.out.println("task1234");
+        System.out.println("modified 1");
+        System.out.println("modified 2");
 
 
     }
