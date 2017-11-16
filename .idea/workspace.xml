@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ee141781-5d9e-4c8e-98d2-674e7e0beca5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main.java" afterPath="$PROJECT_DIR$/src/main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -420,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1510866860741</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit 2 in Test 3 branch">
+      <created>1510866986999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510866986999</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -489,7 +495,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 1 in Test 3 branch" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 1 in Test 3 branch" />
+    <MESSAGE value="commit 2 in Test 3 branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2 in Test 3 branch" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
