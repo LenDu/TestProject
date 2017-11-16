@@ -13,6 +13,7 @@ public class main {
         System.out.println("Changes made in Master branch");
         System.out.println("Testing new branch");
         System.out.println("one more change in Testing branch");
-
+        System.out.println("changes made in Test 3 branch");
+        System.out.println("continue work in Test 3 branch");
     }
 }
